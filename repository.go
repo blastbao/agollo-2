@@ -3,12 +3,13 @@ package agollo
 import (
 	"strconv"
 
-	"github.com/zouyx/agollo/v3/component/notify"
 
-	"github.com/zouyx/agollo/v3/agcache"
-	"github.com/zouyx/agollo/v3/component/log"
-	"github.com/zouyx/agollo/v3/storage"
-	"github.com/zouyx/agollo/v3/utils"
+	"github.com/blastbao/agollo-2/component/notify"
+
+	"github.com/blastbao/agollo-2/agcache"
+	"github.com/blastbao/agollo-2/component/log"
+	"github.com/blastbao/agollo-2/storage"
+	"github.com/blastbao/agollo-2/utils"
 )
 
 //GetConfig 根据namespace获取apollo配置

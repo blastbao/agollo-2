@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	. "github.com/tevid/gohamcrest"
-	"github.com/zouyx/agollo/v3/env/config"
+	"github.com/blastbao/agollo-2/env/config"
 )
 
 type TestLoadBalance struct {

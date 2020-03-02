@@ -8,9 +8,9 @@ import (
 	"time"
 
 	. "github.com/tevid/gohamcrest"
-	"github.com/zouyx/agollo/v3/component/notify"
-	"github.com/zouyx/agollo/v3/env"
-	"github.com/zouyx/agollo/v3/storage"
+	"github.com/blastbao/agollo-2/component/notify"
+	"github.com/blastbao/agollo-2/env"
+	"github.com/blastbao/agollo-2/storage"
 )
 
 const testDefaultNamespace = "application"

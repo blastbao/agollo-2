@@ -3,15 +3,15 @@ package http
 import (
 	"errors"
 	"fmt"
-	"github.com/zouyx/agollo/v3/env/config"
-	"github.com/zouyx/agollo/v3/loadbalance"
-	"github.com/zouyx/agollo/v3/utils"
+	"github.com/blastbao/agollo-2/env/config"
+	"github.com/blastbao/agollo-2/loadbalance"
+	"github.com/blastbao/agollo-2/utils"
 	"io/ioutil"
 	"net/http"
 	"time"
 
-	"github.com/zouyx/agollo/v3/component/log"
-	"github.com/zouyx/agollo/v3/env"
+	"github.com/blastbao/agollo-2/component/log"
+	"github.com/blastbao/agollo-2/env"
 )
 
 var (

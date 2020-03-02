@@ -2,15 +2,15 @@ package http
 
 import (
 	"fmt"
-	"github.com/zouyx/agollo/v3/env/config"
-	"github.com/zouyx/agollo/v3/env/config/json"
+	"github.com/blastbao/agollo-2/env/config"
+	"github.com/blastbao/agollo-2/env/config/json"
 	"net/url"
 	"testing"
 	"time"
 
 	. "github.com/tevid/gohamcrest"
-	"github.com/zouyx/agollo/v3/env"
-	"github.com/zouyx/agollo/v3/utils"
+	"github.com/blastbao/agollo-2/env"
+	"github.com/blastbao/agollo-2/utils"
 )
 
 var (

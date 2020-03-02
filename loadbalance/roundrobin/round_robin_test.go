@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	. "github.com/tevid/gohamcrest"
-	"github.com/zouyx/agollo/v3/env"
-	"github.com/zouyx/agollo/v3/loadbalance"
+	"github.com/blastbao/agollo-2/env"
+	"github.com/blastbao/agollo-2/loadbalance"
 )
 
 const servicesConfigResponseStr = `[{

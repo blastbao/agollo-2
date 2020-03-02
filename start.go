@@ -1,15 +1,15 @@
 package agollo
 
 import (
-	"github.com/zouyx/agollo/v3/agcache"
-	"github.com/zouyx/agollo/v3/component"
-	"github.com/zouyx/agollo/v3/component/log"
-	"github.com/zouyx/agollo/v3/component/notify"
-	"github.com/zouyx/agollo/v3/component/serverlist"
-	"github.com/zouyx/agollo/v3/env"
-	"github.com/zouyx/agollo/v3/env/config"
-	"github.com/zouyx/agollo/v3/loadbalance/roundrobin"
-	"github.com/zouyx/agollo/v3/storage"
+	"github.com/blastbao/agollo-2/agcache"
+	"github.com/blastbao/agollo-2/component"
+	"github.com/blastbao/agollo-2/component/log"
+	"github.com/blastbao/agollo-2/component/notify"
+	"github.com/blastbao/agollo-2/component/serverlist"
+	"github.com/blastbao/agollo-2/env"
+	"github.com/blastbao/agollo-2/env/config"
+	"github.com/blastbao/agollo-2/loadbalance/roundrobin"
+	"github.com/blastbao/agollo-2/storage"
 )
 
 func init() {

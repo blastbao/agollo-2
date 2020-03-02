@@ -6,9 +6,9 @@ import (
 	"sync"
 
 	. "github.com/tevid/gohamcrest"
-	"github.com/zouyx/agollo/v3/env/config"
-	jsonConfig "github.com/zouyx/agollo/v3/env/config/json"
-	"github.com/zouyx/agollo/v3/utils"
+	"github.com/blastbao/agollo-2/env/config"
+	jsonConfig "github.com/blastbao/agollo-2/env/config/json"
+	"github.com/blastbao/agollo-2/utils"
 
 	"testing"
 	"time"

@@ -3,11 +3,11 @@ package serverlist
 import (
 	"time"
 
-	"github.com/zouyx/agollo/v3/component"
-	"github.com/zouyx/agollo/v3/component/log"
-	"github.com/zouyx/agollo/v3/env"
-	"github.com/zouyx/agollo/v3/env/config"
-	"github.com/zouyx/agollo/v3/protocol/http"
+	"github.com/blastbao/agollo-2/component"
+	"github.com/blastbao/agollo-2/component/log"
+	"github.com/blastbao/agollo-2/env"
+	"github.com/blastbao/agollo-2/env/config"
+	"github.com/blastbao/agollo-2/protocol/http"
 )
 
 const (

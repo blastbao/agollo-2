@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"strings"
 
-	"github.com/zouyx/agollo/v3/env"
+	"github.com/blastbao/agollo-2/env"
 )
 
 const (

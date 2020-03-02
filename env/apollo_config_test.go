@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	. "github.com/tevid/gohamcrest"
-	"github.com/zouyx/agollo/v3/utils"
+	"github.com/blastbao/agollo-2/utils"
 )
 
 func TestSetCurrentApolloConfig(t *testing.T) {
